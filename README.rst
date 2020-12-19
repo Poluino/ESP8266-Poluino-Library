@@ -44,7 +44,7 @@ We need to import the above mentioned libraries into our sketch.
 * **ESP8266WiFi** is used to connect the ESP8266 to your WiFi Network.
 * **ArduinoJson** is used to create json document which we will sent to the website using an API.
 * **ESP8266HTTPClient** is used to make HTTP/HTTPS requests such as POST.
-* **ESP8266HTTPClient** is used to easily access the Poluino API.
+* **PoluinoESP8266** is used to easily access the Poluino API.
 
 Define your variables:
 ----------------------

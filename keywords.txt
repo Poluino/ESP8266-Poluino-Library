@@ -1,0 +1,30 @@
+#######################################
+# Syntax Coloring Map Poluino_ESP8266
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Board	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+login				KEYWORD2
+update				KEYWORD2
+setTemperature		KEYWORD2
+setPressure			KEYWORD2
+setHumidity			KEYWORD2
+setRainfall			KEYWORD2
+setWindSpeed		KEYWORD2
+setWindDirection 	KEYWORD2
+setSoilMoisture		KEYWORD2
+setLux		        KEYWORD2
+setUvIndex          KEYWORD2
+customGet           KEYWORD2
+customGetAnywhere   KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################

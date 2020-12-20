@@ -1,5 +1,6 @@
+*******************************************
 Official Poluino Library v1.0.0 for ESP8266
-===========================================
+*******************************************
 
 This page serves as the documentation to the this official Poluino library. This page assumes that you have experience in making Arduino Sketches.
 
